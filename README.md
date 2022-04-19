@@ -1,5 +1,6 @@
 # MiniMarketBackend
 Lesson5
+Test Cases
 1.	CategoryTests
 №1.1 Получение категории по ID (getCategoryByIdPositiveTest).
 1.	Шаги: 
